@@ -102,7 +102,7 @@ These files are later loaded by the Streamlit application.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/disease-predictor.git
+git clone https://github.com/MrFahimhere/Disease-Prediction-System.git
 cd disease-predictor
 ```
 
